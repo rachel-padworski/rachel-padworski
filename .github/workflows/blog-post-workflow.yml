@@ -1,9 +1,8 @@
-name: Latest blog post workflow
+name: Latest blog posts 
 on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
+  schedule: # run workflow automatically
+    - cron: '0 * * * *' # runs every hour, on the hour
+  workflow_dispatch: #runs workflow manually
 
 jobs:
   update-readme-with-blog:
@@ -13,4 +12,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://rachelpadworski.medium.com/"
+          feed_list: "https://rachelpadworski.medium.com"
+          max_post_count: 3

@@ -13,7 +13,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="rachel-padworski | YouTube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />](https://www.youtube.com/channel/UCN2z67Lrmr1bA7ixdHYt9Kg?view_as=subscriber)
+[<img align="left" alt="rachel-padworski | YouTube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />](https://www.youtube.com/channel/UCN2z67Lrmr1bA7ixdHYt9Kg?)
 
 [<img align="left" alt="rachel-padworski | Medium" width="22px" src="https://simpleicons.org/icons/medium.svg" />](https://rachelpadworski.medium.com/)
 
