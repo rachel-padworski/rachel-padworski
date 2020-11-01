@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### About Me:
+## About Me:
 
 - 🔭 I’m currently working on finishing Mod 5 at Flatiron School.
 - 🌱 I’m currently learning React & Redux.
@@ -10,3 +10,9 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm a musician(I started a small music school) and I love to watercolor.
 
+### Connect with me:
+
+[<img align="left" alt="rachel-padworski | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCN2z67Lrmr1bA7ixdHYt9Kg?view_as=subscriber)
+
+
+[<img align="left" alt="rachel-padworski | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCN2z67Lrmr1bA7ixdHYt9Kg?view_as=subscriber)
