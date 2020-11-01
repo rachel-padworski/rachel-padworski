@@ -10,7 +10,9 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm a musician(I started a small music school) and I love to watercolor.
 
-### Connect with me:
+<br><br>
+
+## Connect with me:
 
 [<img align="left" alt="rachel-padworski | YouTube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
 
@@ -20,7 +22,9 @@
 
 [<img align="left" alt="rachel-padworski | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
 
-### Languages and Tools:
+<br><br>
+
+## Languages and Tools:
 
 [<img align="left" alt="rachel-padworski | Ruby" width="22px" src="https://simpleicons.org/icons/ruby.svg" />]
 [<img align="left" alt="rachel-padworski | Ruby On Rails" width="22px" src="https://simpleicons.org/icons/rubyonrails.svg" />]
@@ -30,6 +34,7 @@
 [<img align="left" alt="rachel-padworski | HTML5" width="22px" src="https://simpleicons.org/icons/html5.svg" />]
 [<img align="left" alt="rachel-padworski | CSS" width="22px" src="https://simpleicons.org/icons/css3.svg" />]
 
+<br />
 
 [youtube]: https://www.youtube.com/channel/UCN2z67Lrmr1bA7ixdHYt9Kg?view_as=subscriber
 [medium]: https://rachelpadworski.medium.com/
