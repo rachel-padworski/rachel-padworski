@@ -12,10 +12,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rachel-padworski | YouTube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />](https://www.youtube.com/channel/UCN2z67Lrmr1bA7ixdHYt9Kg?view_as=subscriber)
+[<img align="left" alt="rachel-padworski | YouTube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
 
-[<img align="left" alt="rachel-padworski | Medium" width="22px" src="https://simpleicons.org/icons/medium.svg" />](https://rachelpadworski.medium.com/)
+[<img align="left" alt="rachel-padworski | Medium" width="22px" src="https://simpleicons.org/icons/medium.svg" />][medium]
 
-[<img align="left" alt="rachel-padworski | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />](https://www.instagram.com/rachel_padworski/)
+[<img align="left" alt="rachel-padworski | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 
-[<img align="left" alt="rachel-padworski | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />](https://twitter.com/RPadworski)
+[<img align="left" alt="rachel-padworski | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+
+[youtube]: https://www.youtube.com/channel/UCN2z67Lrmr1bA7ixdHYt9Kg?view_as=subscriber
+[medium]: https://rachelpadworski.medium.com/
+[instagram]: https://www.instagram.com/rachel_padworski/
+[twitter]: https://twitter.com/RPadworski
