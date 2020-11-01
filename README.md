@@ -25,13 +25,13 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="rachel-padworski | Ruby" width="22px" src="https://simpleicons.org/icons/ruby.svg" />]
-[<img align="left" alt="rachel-padworski | Ruby On Rails" width="22px" src="https://simpleicons.org/icons/rubyonrails.svg" />]
-[<img align="left" alt="rachel-padworski | JavaScript" width="22px" src="https://simpleicons.org/icons/javascript.svg" />]
-[<img align="left" alt="rachel-padworski | React" width="22px" src="https://simpleicons.org/icons/react.svg" />]
-[<img align="left" alt="rachel-padworski | Redux" width="22px" src="https://simpleicons.org/icons/redux.svg" />]
-[<img align="left" alt="rachel-padworski | HTML5" width="22px" src="https://simpleicons.org/icons/html5.svg" />]
-[<img align="left" alt="rachel-padworski | CSS" width="22px" src="https://simpleicons.org/icons/css3.svg" />]
+<img align="left" alt="rachel-padworski | Ruby" width="22px" src="https://simpleicons.org/icons/ruby.svg" />
+<img align="left" alt="rachel-padworski | Ruby On Rails" width="22px" src="https://simpleicons.org/icons/rubyonrails.svg" />
+<img align="left" alt="rachel-padworski | JavaScript" width="22px" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="left" alt="rachel-padworski | React" width="22px" src="https://simpleicons.org/icons/react.svg" />
+<img align="left" alt="rachel-padworski | Redux" width="22px" src="https://simpleicons.org/icons/redux.svg" />
+<img align="left" alt="rachel-padworski | HTML5" width="22px" src="https://simpleicons.org/icons/html5.svg" />
+<img align="left" alt="rachel-padworski | CSS" width="22px" src="https://simpleicons.org/icons/css3.svg" />
 
 <br />
 
