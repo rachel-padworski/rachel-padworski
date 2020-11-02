@@ -1,4 +1,4 @@
-name: Latest blog posts 
+name: Latest Blog Posts 
 on:
   schedule: # run workflow automatically
     - cron: '0 * * * *' # runs every hour, on the hour
@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://rachelpadworski.medium.com"
-          max_post_count: 3
+    
