@@ -33,7 +33,7 @@
 <img align="left" alt="rachel-padworski | HTML5" width="22px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="rachel-padworski | CSS" width="22px" src="https://simpleicons.org/icons/css3.svg" />
 
-<br />
+<br><br>
 
 ## Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
@@ -48,8 +48,9 @@
 <img align="left" alt="Rachel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rachel-padworski&theme=radical&show_icons=true" />
 
 
-<img align="left" alt="Rachel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachel-padworski" />
+<img align="left" alt="Rachel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachel-padworski&theme=radical" />
 
+<br>
 
 ---
 
