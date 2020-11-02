@@ -47,3 +47,5 @@
 
 <img align="left" alt="Rachel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rachel-padworski&theme=radical&show_icons=true" />
 
+<img align="left" alt="Top Languages" src="https://github.com/rachel-padworski/github-readme-stats" />
+
