@@ -39,4 +39,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align="left" alt="Rachel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rachel-padworski&theme=dark&show_icons=true" />
 
