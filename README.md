@@ -37,6 +37,7 @@
 
 ## Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Final Project at Flatiron School](https://medium.com/@rachelpadworski/final-project-at-flatiron-school-f7aa3cd0b834?source=rss-8ff692457b51------2)
 - [Sinatra Project](https://medium.com/@rachelpadworski/sinatra-project-2280ebe3e5ac?source=rss-8ff692457b51------2)
 - [Why I Chose Software Development](https://medium.com/@rachelpadworski/why-i-chose-software-development-7b9c2b2ada4d?source=rss-8ff692457b51------2)
 - [Why Am I going to Flatiron?](https://medium.com/@rachelpadworski/why-am-i-going-to-flatiron-593597b1742a?source=rss-8ff692457b51------2)
