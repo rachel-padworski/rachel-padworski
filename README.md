@@ -40,7 +40,6 @@
 - [routerProps](https://medium.com/@rachelpadworski/routerprops-2f193fadce44?source=rss-8ff692457b51------2)
 - [Final Project at Flatiron School](https://medium.com/@rachelpadworski/final-project-at-flatiron-school-f7aa3cd0b834?source=rss-8ff692457b51------2)
 - [Sinatra Project](https://medium.com/@rachelpadworski/sinatra-project-2280ebe3e5ac?source=rss-8ff692457b51------2)
-- [Why I Chose Software Development](https://medium.com/@rachelpadworski/why-i-chose-software-development-7b9c2b2ada4d?source=rss-8ff692457b51------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
