@@ -38,7 +38,6 @@
 ## Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [routerProps](https://rachelpadworski.medium.com/routerprops-2f193fadce44?source=rss-8ff692457b51------2)
-- [Final Project at Flatiron School](https://rachelpadworski.medium.com/final-project-at-flatiron-school-f7aa3cd0b834?source=rss-8ff692457b51------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
