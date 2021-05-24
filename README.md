@@ -3,12 +3,12 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on finishing Mod 5 at Flatiron School.
-- 🌱 Learning React & Redux.
-- 👯 I’m looking to collaborate on any project big or small - coding interview prep?
-- 💡 2020/2021 Goals: graduate from Flatiron School and get a job while contributing to open source code.
+- 🔭 I graduated from Flatiron School in January of 2021.
+- 🌱 Learning AWS.
+- 👯 I’m looking to collaborate on any project big or small.
+- 💡 2021 Goals: Start a new career at a diverse company I can be passionate to work for.
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm a musician (I started a small music school) and I love to watercolor.
+- ⚡ Fun facts: I'm a musician (I started a small music school), I love to be outside, and I love to watercolor & embroider.
 <br>
 
 ## Connect with me:
