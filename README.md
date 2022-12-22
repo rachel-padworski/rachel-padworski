@@ -6,7 +6,6 @@
 - 🔭 I graduated from Flatiron School in January of 2021.
 - 🌱 Learning AWS.
 - 👯 I’m looking to collaborate on any project big or small.
-- 💡 2021 Goals: Start a new career at a diverse company I can be passionate to work for.
 - 😄 Pronouns: She/her
 - ⚡ Fun facts: I'm a musician (I started a small music school), I love to be outside, and I love to watercolor & embroider.
 <br>
